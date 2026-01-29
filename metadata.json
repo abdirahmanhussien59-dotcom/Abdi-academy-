@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Abdi's Daily English",
+  "description": "Madal dhamaystiran oo barashada Ingiriisiga ah oo bixisa casharro maalinle ah, talooyin naxwe, iyo macalin AI ah oo ka caawiya ardayda inay si faseex ah ugu hadlaan luqadda maalinba maalinta ka dambaysa.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
